@@ -1,3 +1,9 @@
+/*
+Adi Megidi
+314956608
+Adimillersoso@gmail.com
+*/
+
 #include "doctest.h"
 #include "Algorithms.hpp"
 #include "Graph.hpp"
