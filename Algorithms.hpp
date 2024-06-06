@@ -1,3 +1,9 @@
+/*
+Adi Megidi
+314956608
+Adimillersoso@gmail.com
+*/
+
 #ifndef ALGORITHMS_HPP
 #define ALGORITHMS_HPP
 #include <iostream>
