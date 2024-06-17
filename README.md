@@ -1,9 +1,7 @@
 # CPP_EX1_24
 
-Adi Megidi
-
-Adimillersoso@gmail.com
-
+Adi Megidi  
+Adimillersoso@gmail.com  
 314956608
 
 ## Graph
